@@ -15,7 +15,7 @@ nav_order: "1"
 
 ## Language Family
 The `SwaTao (汕头)` variety falls under the `Sino-Tibetan` language family as a `Southern Teochew Min (潮州闽)` variety. It is one of the main varieties of `Teochew` which also includes `Teochew Proper` and other "Northern"  and "Southern" Teochew Min [^1].
-
+//TODO try to use `Teochew` for both Teochew porper and swatao and `SwaTao` when just this one
 **`SwaTao` Language Family Tree**[^1]
 ```
 Sino-Tibetan
