@@ -178,6 +178,10 @@ There is only one liquid in `Teochew`, `/l/` with two constrictions: `alveolar` 
 ![](assets/consonants/liquid_timing.jpg)
 
 ___
+# Stop Consonant Cluster Release
+Since `SwaTao` follows a `/CVC/` where the consonants are optional and nucleus is either a single-vowel or diphthong, there are no consonant clusters.
+
+___
 [^1]: Most words and transcriptions are first sourced from the `Learn Teochew` resource. 
 [^2]: The `/mɪŋ/`, `/o/`, and the `/hoʔ/` needed to be changed from the original transcription based on the speaker
 [^3]: Originally, the sentences was /lʌ/ **/do/ /laɪ/** /u/ /leŋ/ /moŋ/ /a/ /bo/; however the speaker found that adding the extra **/do/** was ungrammatical. Thus, it is removed from the recording and transcription
