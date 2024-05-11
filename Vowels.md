@@ -31,7 +31,7 @@ ___
 
 | Expected Vowel Chart                        |
 | ------------------------------------------- |
-| ![](assets/vowels/Expected_Vowel_Chart.jpg) |
+| ![](assets/vowels/vowel_charts/Expected_Vowel_Chart.jpg) |
 
 ## Recorded Vowels
 Before going into the details on the vowel identification, below details the process to obtain the Vowel Charts:
@@ -45,7 +45,7 @@ Before going into the details on the vowel identification, below details the pro
 
 | Recorded Vowel Chart                                            |
 | --------------------------------------------------------------- |
-| ![Original Vowel Chart](assets/vowels/Original_Vowel_Chart.png) |
+| ![Original Vowel Chart](assets/vowels/vowel_charts/Original_Vowel_Chart.png) |
 
 ### Vowel Shift in `SwaTao`
 - When listening to the recording combined with the new data, `SwaTao` seems to have these `/ɤ/` and `/ɑ/` rather than `/ɯ/` and `/a/`
@@ -62,8 +62,8 @@ Before going into the details on the vowel identification, below details the pro
 
 | Description                                                 | Vowel Chart                                                             |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Hypothesized Shifted Vowel Chart                            | ![Annotated Vowel Chart Image](assets/vowels/Annotated_Vowel_Chart.png) |
-| Potential "Backing" shift from `Teochew Proper` to `SwaTao` | ![potential_vowel_shift image](assets/vowels/Potential_Vowel_Shift.png) |
+| Hypothesized Shifted Vowel Chart                            | ![Annotated Vowel Chart Image](assets/vowels/vowel_charts/Annotated_Vowel_Chart.png) |
+| Potential "Backing" shift from `Teochew Proper` to `SwaTao` | ![potential_vowel_shift image](assets/vowels/vowel_charts/Potential_Vowel_Shift.png) |
 
 ### Possible Reasons For Vowel Shifting
 - However, it is unclear whether this shift is due to:(1) variety, (2) speaker, or (3) speaking conditions of the normal speaker.
@@ -73,9 +73,11 @@ Before going into the details on the vowel identification, below details the pro
 | Variety                      | The `/ɯ/` and `/a/` vowel shift to `/ɤ/` and `/ɑ/` for all `SwaTao` speakers                          | (1) There is a `Backing` of the `/ɯ/` and `/a/` vowels from `Teochew Proper` to `SwaTao` under all conditions<br><br>(2) `SwaTao` speaker's phonological unit[^1] for those 2 vowels differs from `Teochew Proper`'s        |
 | Speaking Conditions          | The `Backing` only occurs in limited conditions                                                       | (1) There is a `Backing` from `Teochew Proper` to `SwaTao` under certain conditions<br><br>(2) The phonological unit for the 2 vowels are the same in `SwaTao` and `Teochew Proper` but experience allophonic variation[^2] |
 | Speaker Specific             | The vowel shift is only present in the native speaker recorded and not for other speakers of `SwaTao` | (1) There is no difference in vowels between both varieties<br><br>(2) The phonological units for both varieties are the same                                                                                               |
+
 See Section (// TODO) for future investigation of vowel shifting.
 ___
 # Vowel Spectrograms
+
 
 ____
 [^1]: Phonological Unit refers to an abstract mental unit representing the information a speaker needs to decode (understand from a speech signal) or encode (produce) a given sound. More specifically, the Phonological Unit is likely a set of `Dynamical Systems` governing the movement of `Vocal Tract Constrictors` where the target `Constriction Location` (traditionally `Place of Articulation`) and `Constriction Degree` (traditionally `Manner of Articulation`) are the `goals` of each `Dynamical System` 
