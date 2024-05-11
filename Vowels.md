@@ -13,7 +13,6 @@ nav_order: "3"
 1. TOC
 {:toc}
 </details>
-
 ___
 # List of Vowels
 
@@ -48,13 +47,14 @@ ___
 ## Formant Chart
 - Updated Formant Chart with the corrected `back vowels`
 
-![](assets/vowels/Annotated_Vowel_chart.png)
+![Annotated Vowel Chart Image](assets/vowels/Annotated_Vowel_chart.png)
 
 
 ### Potential Vowel Shift
 - Below is an artistically rendered version of the potential vowel shift from `Teochew` to `SwaTao`
 	- However, it is unclear whether this shift is due to (1) variety, (2) speaker, or (3) speaking conditions of the normal speaker
-![](assets/vowels/potential_vowel_shift.png)
+
+![potential_vowel_shift image](assets/vowels/potential_vowel_shift.png)
 
 ___
 # Vowel Spectrograms
