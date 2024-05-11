@@ -1,8 +1,17 @@
 ---
-title: Home
-layout: home
+title: Introduction
+layout: default
+nav_order: "1"
 ---
 # Introduction
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Language Family
 The `SwaTao (汕头)` variety falls under the `Sino-Tibetan` language family as a `Southern Teochew Min (潮州闽)` variety. It is one of the main varieties of `Teochew` which also includes `Teochew Proper` and other "Northern"  and "Southern" Teochew Min [^1].
@@ -55,7 +64,6 @@ I am interested in the `SwaTao` Phonetic Inventory Project for many reasons! Her
 3. `Teochew` has a rich culture and historical importance, and I wish to connect more deeply with other `GaGiNang`s
 
 ___
-
 [^1]: Language Family divided into proper and geographical [varieties](https://en.wikipedia.org/wiki/Teochew_Min)
 [^2]: As a Cantonese speaker, it was sometimes easier to translate sentences into Mandarin Orthography before creating the English gloss. Also, I hope that any other interested people or Linguistics students may also find this work interested and perhaps benefits from having more glosses.
 [^3]: After finishing the phonetic recordings with my speaker, we talked more about `SwaTao` culture, including the  phrase `GaGiNang` or `/gaginaŋ/`, written in `Teochew` as 胶己人 or in Mandarin 自己人. `GaGiNang` has three meanings: (1) Literal: "Our own people", (2) Geographical: The `Teochew` region, and (3) An idea that unites all `Teochew` people from all different backgrounds, diaspora, and identification

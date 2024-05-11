@@ -84,6 +84,7 @@ In order to illustrate the phonetic contrasts of phonemes (ex: `/p/` vs. `/pʰ/`
 | IPA Transcription                                                             | Peng’im Transcription                                                     | SwaTao Gloss                                             | Chinese Gloss                                              | English Gloss                                                                     |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | /lɯ/<br><br>/laɪ/<br><br>/u/<br><br>/leŋ/<br><br>/moŋ/<br><br>/a/<br><br>/bo/ | le2<br><br>lai6<br><br>u6<br><br>lêng5<br><br>mong5<br><br>a1<br><br>bho5 | 汝<br><br>内<br><br>有<br><br>柠<br><br>檬<br><br>呀<br><br>无？ | 你<br><br>在家<br><br>有<br><br>柠<br><br>檬<br><br>啊<br><br>没有？ | You<br><br>At<br><br>Home<br><br>Have<br><br>Lemons<br><br>  <br><br>Or Not Have? |
+|                                                                               |                                                                           |                                                          |                                                            |                                                                                   |
 
 ___
 # Voice Onset Timing (VOT)
@@ -132,6 +133,15 @@ ___
 - Based on the VOT and phonetic descriptions from the literature, we can infer state timing diagrams for the `stop consonants` in `SwaTao`
 - Below are the **General Hypothesis on State Timing Diagrams of Gestural Constrictions** 
 
+Using the [Articulatory Phonology](https://drive.google.com/file/d/1fs01mKigx-NQEwWwniocR5xV_iTI9Ect/view) Gestural Descriptions for Consonants:
+
+| Constrictor | Description |
+| ----------- | ----------- |
+|             |             |
+|             |             |
+ - Tongue Tip Constriction = TT
+- Tongue Body Constriction = TB
+- Velic = Velum Lowe
 ### Stops
 2. `Unaspirated Voiceless Stops` 
 	1. Glottal Wide during the stop closure 
@@ -140,18 +150,32 @@ ___
 	1. Glottal Wide during the stop closure 
 	2. Glottal Adduction following the release for `>70 ms` before voicing begins
 4. `Voiced Stops`
-	1. Glottal Closed throughout the stop closure and release
+	1. Glottal Closed throughout the stop closure and release (`synchronous`[^5])
 
-| Constriction Location | State Timing Diagram                             |
-| --------------------- | ------------------------------------------------ |
-| Labial                | ![](assets/consonants/Labial_Stops_Timing.jpg)   |
-| Alveolar              | ![](assets/consonants/Alveolar_Stops_Timing.jpg) |
-| Velar                 | ![](assets/consonants/Velar_Stops_Timing.jpg)    |
+| Constrictor Description | State Timing Diagram                             |
+| ----------------------- | ------------------------------------------------ |
+| Labial                  | ![](assets/consonants/Labial_Stops_Timing.jpg)   |
+| Tongue Tip              | ![](assets/consonants/Alveolar_Stops_Timing.jpg) |
+| Tongue Body             | ![](assets/consonants/Velar_Stops_Timing.jpg)    |
+| Velum Lowering          | ![](assets/consonants/nasal_timing.jpg)          |
 
 ### Fricatives
 1. Both fricatives in `SwaTao` are voiceless
 	1. Glottal Wide gesture is synchronous[^5] with the fricative
 ![](assets/consonants/Fricative_Timing.jpg)
+
+### Affricates
+All affricate in `Teochew` are alveolar and follow a similar pattern to the `stop`s
+1. `Voiceless Unaspirated Affricate`
+	1. Glottal Wide synchronous with Alveolar Stop and Alveolar Fricative
+2. `Voiceless Aspirated Affricate`
+	1. Glottal Wide during Alveolar Stop and Alveolar Fricative
+	2. Glottal Adduction and Medial Compression after onset voicing begins (`breathy voice`during vowel)
+![](assets/consonants/Affricate_Timing.jpg)
+
+### Liquids
+There is only one liquid in `Teochew`, `/l/` with two constrictions: `alveolar` and `uvular`
+![](assets/consonants/liquid_timing.jpg)
 
 ___
 [^1]: Most words and transcriptions are first sourced from the `Learn Teochew` resource. 
@@ -159,3 +183,5 @@ ___
 [^3]: Originally, the sentences was /lʌ/ **/do/ /laɪ/** /u/ /leŋ/ /moŋ/ /a/ /bo/; however the speaker found that adding the extra **/do/** was ungrammatical. Thus, it is removed from the recording and transcription
 [^4]: `Biphasic` with respect to a waveform means that there are two up and down phases in the same wave
 [^5]: `Synchronous` refers to the idea that two gestures begin and end at the same time ("in sync") rather than being out of sync (ex: `Glottal Adduction` after a `Stop Release` causing `aspiration)
+
+
