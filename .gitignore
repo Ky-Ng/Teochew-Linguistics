@@ -16,3 +16,4 @@ vendor/
 
 # For easy editing
 .obsidian/
+.DS_Store
