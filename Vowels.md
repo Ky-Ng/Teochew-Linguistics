@@ -27,10 +27,9 @@ ___
 | /o/       | o             | /mo/              | mo2                   | 毛            | 毛             | Fur           |
 | /u/       | u             | /gu/              | ghu1                  | 牛            | 牛             | Cow           |
 | /ɯ/       | e             | /kʰɯ/             | ke3                   | 去            | 去             | Go            |
-|           |               |                   |                       |              |               |               |
 
 - However, based on the formant chart below, the `/ɯ/` and `/a/` are incorrect:
-![](assets/vowels/Original_Vowel_Chart.png)
+![Original Vowel Chart](assets/vowels/Original_Vowel_Chart.png)
 ## Recorded Vowels
 Before going into the details on the vowel identification, below details the process to obtain the Formant Charts:
 #### Formant Calculation Method
@@ -55,7 +54,7 @@ Before going into the details on the vowel identification, below details the pro
 ## Formant Chart
 - Updated Formant Chart with the corrected `back vowels`
 
-![Annotated Vowel Chart Image](assets/vowels/Annotated_Vowel_chart.png)
+![Annotated Vowel Chart Image](assets/vowels/Annotated_Vowel_Chart.png)
 
 
 ### Potential Vowel Shift
