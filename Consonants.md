@@ -149,10 +149,13 @@ ___
 | Velar                 | ![](assets/consonants/Velar_Stops_Timing.jpg)    |
 
 ### Fricatives
-1. Both fricatives in `SwaTao` are voiceless, thus 
+1. Both fricatives in `SwaTao` are voiceless
+	1. Glottal Wide gesture is synchronous[^5] with the fricative
+![](assets/consonants/Fricative_Timing.jpg)
 
 ___
 [^1]: Most words and transcriptions are first sourced from the `Learn Teochew` resource. 
 [^2]: The `/mɪŋ/`, `/o/`, and the `/hoʔ/` needed to be changed from the original transcription based on the speaker
 [^3]: Originally, the sentences was /lʌ/ **/do/ /laɪ/** /u/ /leŋ/ /moŋ/ /a/ /bo/; however the speaker found that adding the extra **/do/** was ungrammatical. Thus, it is removed from the recording and transcription
 [^4]: `Biphasic` with respect to a waveform means that there are two up and down phases in the same wave
+[^5]: `Synchronous` refers to the idea that two gestures begin and end at the same time ("in sync") rather than being out of sync (ex: `Glottal Adduction` after a `Stop Release` causing `aspiration)
