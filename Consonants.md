@@ -135,13 +135,14 @@ ___
 
 Using the [Articulatory Phonology](https://drive.google.com/file/d/1fs01mKigx-NQEwWwniocR5xV_iTI9Ect/view) Gestural Descriptions for Consonants:
 
-| Constrictor | Description |
-| ----------- | ----------- |
-|             |             |
-|             |             |
- - Tongue Tip Constriction = TT
-- Tongue Body Constriction = TB
-- Velic = Velum Lowe
+| Vocal Tract Constrictor/Organ | Description                                                                                                             |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Velic (Velum)                 | Controls the lowering of the velum and therefore nasalization                                                           |
+| Tongue Tip                    | Controls Coronal Consonants (`Alveo-dental`, `Alveolar`, `Post-Alveolar`, `Palatal`)                                    |
+| Tongue Body                   | Controls Dorsal Consonants (`Palatal`, `Velar`, `Uvular`, `Pharyngeal`)                                                 |
+| Labial                        | Controls Lip Aperture, Lip Rounding, and Lip Height                                                                     |
+| Laryngeal                     | Controls Glottal Aperture and Voicing <br><br>(Large Glottal Aperture = voiceless)<br>(Small Glottal Aperture = voiced) |
+
 ### Stops
 2. `Unaspirated Voiceless Stops` 
 	1. Glottal Wide during the stop closure 
