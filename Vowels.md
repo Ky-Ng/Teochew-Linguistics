@@ -78,6 +78,17 @@ See Section (// TODO) for future investigation of vowel shifting.
 ___
 # Vowel Spectrograms
 
+| Back Vowel IPA | Spectogram                                                            |
+| -------------- | --------------------------------------------------------------------- |
+| /u/            | ![](assets/vowels/spectograms/high_back_spectogram.png)               |
+| /o/            | ![](assets/vowels/spectograms/high_mid_rounded_back_spectogram.png)   |
+| /ɤ/            | ![](assets/vowels/spectograms/high_mid_unrounded_back_spectogram.png) |
+| /ɑ/            | ![](assets/vowels/spectograms/low_back_spectogram.png)                |
+
+| Front Vowel IPA | Spectogram                                                   |
+| --------------- | ------------------------------------------------------------ |
+| /i/             | ![](assets/vowels/spectograms/high_front_spectogram.png)     |
+| /e/             | ![](assets/vowels/spectograms/high_mid_front_spectogram.png) |
 
 ____
 [^1]: Phonological Unit refers to an abstract mental unit representing the information a speaker needs to decode (understand from a speech signal) or encode (produce) a given sound. More specifically, the Phonological Unit is likely a set of `Dynamical Systems` governing the movement of `Vocal Tract Constrictors` where the target `Constriction Location` (traditionally `Place of Articulation`) and `Constriction Degree` (traditionally `Manner of Articulation`) are the `goals` of each `Dynamical System` 
