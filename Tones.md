@@ -15,15 +15,24 @@ nav_order: "4"
 </details>
 ___
 # Tones Introduction
-- Commonly referred to as `tones`, tones are `Fundamental Frequency` or `F0` or `pitch` modulations (changes) throughout an utterance
-	- The modulation of `F0` throughout an utterance is known as a `Pitch Contour` which can be plotted as `F0 vs. Time`
-- From a `Gestural Framework`, the `goal` of `High Tone` or `Low Tone` are achieved by constrictions of the `articulators` or muscles in the lower portion of the `Vocal Tract`
+1. `Pitch` refers to the number of `glottal pulses` per second (Hz)
+	1. One `glottal pulse` is the "round trip" of the 2 halves of the vocal folds from being blown apart by [`pulmonic airstream`](https://en.wikipedia.org/wiki/Airstream_mechanism) and pulled back together by `low pressure` created by [`Bernoulli Forces`](https://en.wikipedia.org/wiki/Bernoulli%27s_principle)
+		1. More `glottal pulses` => higher `pitch`
+	2. `Pitch` is an equivalent term for `Fundamental Frequency` or `F0` <small>or if you're quirky, glottal pulses per second!</small>
+2. `Tones` are `pitch` modulations (changes) throughout an utterance
+	1. Ex: `high pitch` at `onset` then `low pitch` following
+	2. The modulation of `F0` throughout an utterance is known as a `Pitch Contour` which can be plotted as `F0 vs. Time`
+4. From a `Gestural Framework`, the `goal` of `High Tone` or `Low Tone` are achieved by constrictions of the `articulators` or muscles in the lower portion of the `Vocal Tract`
 
 |                  | High Tone                                             | Low Tone                                |
 | ---------------- | ----------------------------------------------------- | --------------------------------------- |
 | Tension Goal     | Increase Longitudinal Tension                         | Decrease Vertical Tension               |
 | Articulator Goal | Increase Angle between Cricoid and Thyroid Cartilages | Lower Larynx                            |
 | Muscle Involved  | Crico-thyroid muscle                                  | Strap muscle (sterno-hyoid/thyrohiyoid) |
+
+# IPA Tone Transcription
+<small>Due to historical reasons, the use of numerical values for tones is quite ambiguous; this section hopes to clear this ambiguity.</small>
+- Following the primary resource [`Learn Teochew`'s Tones Section](https://learn-teochew.github.io/pages/pronunciation.html#tones), we will follow that on the scale of tones from `1` to `5`, the lower the number, the lower the `F0` .
 
 # List of Tones
 #### Tone Class
@@ -34,8 +43,8 @@ ___
 
 | Tone Class | Starting F0 | Teochew Transcription | Corresponding Peng'im Tones |
 | ---------- | ----------- | --------------------- | --------------------------- |
-| high       | high        | 阴                     | `1` `2` `3` `4`             |
-| low        | low         | 阳                     | `5` `6` `7` `8`             |
+| low        | low         | 阴                     | `1` `2` `3` `4`             |
+| high       | high        | 阳                     | `5` `6` `7` `8`             |
 #### Tone Category
 - In addition to `Tone Class`, each Tone can be modulated with a `Tone Category` (either increase or decrease `F0` depending on the onset `F0` or `Tone Class`)
 
@@ -60,22 +69,36 @@ Total_Tones_in_SwaTao = 8
 
 | IPA Number[^3] | Peng’im Tone # | Tone Type (English) | Tone Class (English) | Tone Type (Teochew) | Tone Class<br>(Teochew) |
 | -------------- | -------------- | ------------------- | -------------------- | ------------------- | ----------------------- |
-| 33             | 1              | High                | Level                | 阴                   | 平                       |
-| 53             | 2              | High                | Rising               | 阴                   | 上                       |
-| 213            | 3              | High                | Departing            | 阴                   | 去                       |
-| 2              | 4              | High                | Entering             | 阴                   | 入                       |
-| 55             | 5              | Low                 | Level                | 阳                   | 平                       |
-| 35             | 6              | Low                 | Rising               | 阳                   | 上                       |
-| 11             | 7              | Low                 | Departing            | 阳                   | 去                       |
-| 5              | 8              | Low                 | Entering             | 阳                   | 入                       |
+| 33             | 1              | Low                 | Level                | 阴                   | 平                       |
+| 53             | 2              | Low                 | Rising               | 阴                   | 上                       |
+| 213            | 3              | Low                 | Departing            | 阴                   | 去                       |
+| 2              | 4              | Low                 | Entering             | 阴                   | 入                       |
+| 55             | 5              | High                | Level                | 阳                   | 平                       |
+| 35             | 6              | High                | Rising               | 阳                   | 上                       |
+| 11             | 7              | High                | Departing            | 阳                   | 去                       |
+| 5              | 8              | High                | Entering             | 阳                   | 入                       |
 
 ___
 # Pitch Contour
+- Below, each `Tone Type` and `Tone Category` are listed below
+
+| Pitch Contour                        |
+| ------------------------------------ |
+| ![](assets/tones/pitch_contours.png) |
+
+| Tone Parameter Type | Tone Parameter | Graph Representation |
+| ------------------- | -------------- | -------------------- |
+| Tone Type           | High           | Solid Line           |
+|                     | Low            | Dashed Line          |
+| Tone Category       | Level          | Blue                 |
+|                     | Rising         | Red                  |
+|                     | Departing      | Yellow               |
+|                     | Entering       | Green                |
 
 ## Discrepancies
 ____
-[^1]: Low is also called "Light" or `阳` in some literature
-[^2]: High also called "Dark" or `阴` in some literature
-[^3]: The IPA tone scale from `1`-`5` represents the range of `F0` values for a speaker where `1` is the highest `pitch`/`f0` and `5` is the lowest `pitch`/`F0
+[^1]: Low is also called "Dark" or `阴` in some literature
+[^2]: High also called "Light" or `阳` in some literature
+[^3]: The IPA tone scale from `1`-`5` represents the range of `F0` values for a speaker where `1` is the lowest `pitch`/`f0` and `5` is the highest `pitch`/`F0`. However, the numerical values have historically been [ambiguous for Asian vs. African tone languages](https://en.wikipedia.org/wiki/Tone_letter#Numerical_values)
 [^4]: Similar to Mandarin `third tone`. In addition, this is the only `Teochew` tone with more than one pitch gesture in the modulation
 [^5]: See the [Pitch Contour](#Pitch-Contour) section for the discrepancy between the expected "constant" tone versus the recorded decrease in `F0`
