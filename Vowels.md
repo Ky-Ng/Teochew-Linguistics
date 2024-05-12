@@ -34,11 +34,11 @@ ___
 | ![](assets/vowels/vowel_charts/Expected_Vowel_Chart.jpg) |
 
 ## Recorded Vowels
-Before going into the details on the vowel identification, below details the process to obtain the Vowel Charts:
+Before going into the details on the vowel identification, below details the process to I used to obtain the Vowel Charts:
 #### Vowel Calculation Method
-1. Since the vowel was produced in a `/CV/` context, select only the portion where the consonant formant modulation is not present (vowel formants become stable)
-2. Get `Formant`>`Formant Listing` from Praat
-3. Take the median of the entire time series for `F2-F1` and `F1` values and plot them
+1. Since the vowel was produced in a `/CV/` context, I selected only the portion where the consonant formant modulation is not present (vowel formants become stable)
+2. Used the `Formant`>`Formant Listing` from Praat
+3. Took the median of the entire time series for `F2-F1` and `F1` values and plot them
 
 ### Recorded Vowel Chart with Original Vowels
 - Based on the positions of `/ɯ/` and `/a/`, the there seems to be a slight lowering of `F2` in the vowel supposed to be `/ɯ/` and an extreme lowering of `F2` in the vowel supposed to be `/a/`
@@ -57,16 +57,22 @@ Before going into the details on the vowel identification, below details the pro
 
 | Vowel IPA | Vowel Peng’im | IPA Transcription | Peng’im Transcription | SwaTao Gloss | Chinese Gloss | English Gloss |
 | --------- | ------------- | ----------------- | --------------------- | ------------ | ------------- | ------------- |
-| /a/       | /ɑ/           | /mɑ/              | ma5                   | 妈            | 妈             | Mom           |
-| /ɯ/       | /ɤ/           | /kʰɤ/             | ke3                   | 去            | 去             | Go            |
+| /ɑ/       | a             | /mɑ/              | ma5                   | 妈            | 妈             | Mom           |
+| /ɤ/       | e             | /kʰɤ/             | ke3                   | 去            | 去             | Go            |
 
-| Description                                                 | Vowel Chart                                                             |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Description                                                 | Vowel Chart                                                                          |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Hypothesized Shifted Vowel Chart                            | ![Annotated Vowel Chart Image](assets/vowels/vowel_charts/Annotated_Vowel_Chart.png) |
 | Potential "Backing" shift from `Teochew Proper` to `SwaTao` | ![potential_vowel_shift image](assets/vowels/vowel_charts/Potential_Vowel_Shift.png) |
 
+#### Investigating `/e/` vs. `/ɛ/`
+- Something interesting while looking at the formant chart is the `/e/` vowel having a much higher F1 then expected[^3]. 
+- While this could suggest that the `/e/` vowel in `Teochew Proper` shifts to a lower F1 `/ɛ/` in `SwaTao`:
+	1. `/e/` and `/ɛ/` experience `allophonic variation`[^4] in `Teochew` so it is unclear which vowel is the `phonological unit`
+	2. Seeing which vowel is more prominent would require more investigation // TODO SECTION ON BIMODAL DISTRIBUTION
+
 ### Possible Reasons For Vowel Shifting
-- However, it is unclear whether this shift is due to:(1) variety, (2) speaker, or (3) speaking conditions of the normal speaker.
+- However, it is unclear whether this shift is due to: (1) variety, (2) speaker, or (3) speaking conditions of the normal speaker.
 
 | Possible Reason For Shifting | Description of Reason                                                                                 | Finding                                                                                                                                                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,5 +99,5 @@ ___
 ____
 [^1]: Phonological Unit refers to an abstract mental unit representing the information a speaker needs to decode (understand from a speech signal) or encode (produce) a given sound. More specifically, the Phonological Unit is likely a set of `Dynamical Systems` governing the movement of `Vocal Tract Constrictors` where the target `Constriction Location` (traditionally `Place of Articulation`) and `Constriction Degree` (traditionally `Manner of Articulation`) are the `goals` of each `Dynamical System` 
 [^2]: Due to the `synergy` and `interaction` of the `Dynamical Systems` controlling each `Constrictor`--in this case, `Tongue Body`--`/ɯ/` and `/a/` have greater `Pharyngeal Constriction` 
-
-
+[^3]: Relating to `Source Filter Theory`, the `/e/` and `/ɛ/` vowels differ only in `Constriction Degree` at the `Palatal` `Constriction Location`. Since the `palatal` constriction occurs at an `antinode` or `maximum movement` point of air molecules in the Vocal Tract, the `antinode` is `mass controlled`. A constriction at the `mass controlled` area decreases the frequency, which means that the higher the vowel, the greater the `Constriction Degree` and the lower the `F1`. More simply `F1 and vowel height are inversely related`, lower vowels have higher `F1`s.
+[^4]: Allophonic Variation refers to the idea that the same `Phonologic Unit` may be produced with different but close `Constriction Degree`s and `Constriction Location`s. Speakers would not differentiate between words/phonemes when in allophonic distribution.
