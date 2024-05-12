@@ -27,6 +27,7 @@ ___
 | /tʰ/        | t       | /suã taʊ/         | suan1 tao5            | 汕头           | 汕头             | Swa Tao (Dialect and Region)                                          |
 | /ts/        | z       | /tsek/            | zêg8                  | 一            | 一              | 1                                                                     |
 | /tsʰ/       | c       | /tsʰik/           | cig4                  | 七            | 七              | 7                                                                     |
+| /z/ or /dz/ | r       | /dzi/             | ri7                   | 字            | 字              | Word                                                                  |
 | /k/         | g       | /kau/             | gao2                  | 九            | 九              | 9                                                                     |
 | /kʰ/        | k       | /gɯŋ kɯe/         | gong1 kue3            | 功课           | 功课             | Homework                                                              |
 | /g/         | gh      | /gaɪ/             | gai5                  | 个            | 个              | Particle (What/thing)                                                 |
@@ -37,7 +38,6 @@ ___
 |             |         | /ŋaŋ/             | ngang5                | 凝            | 冷              | In Cantonese/Mandarin means to coagulate, in Teochew means to be cold |
 | /s/         | s       | /sã/              | san1                  | 三            | 三              | 3                                                                     |
 | /h/         | h       | /hak/             | hak4                  | 学            | 学              | Learn/School                                                          |
-| /z/ or /dz/ | r       | /dzi/             | ri7                   | 字            | 字              | Word                                                                  |
 | /l/         | l       | /leŋ/             | lêng5                 | 零            | 零              | 0                                                                     |
 
 # Phonetically Rich Sentences
