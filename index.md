@@ -3,7 +3,7 @@ title: Introduction
 layout: default
 nav_order: "1"
 ---
-# Introduction
+# Welcome to `GaGiNang Phonetics`!
 <details open markdown="block">
   <summary>
     Table of contents
@@ -13,7 +13,27 @@ nav_order: "1"
 {:toc}
 </details>
 
-## Language Family
+___
+# `GaGiNang Phonetics (GG NP)` Roadmap
+- TODO
+
+___
+# Motivation for `GG NP`
+I am interested in the `SwaTao` Phonetic Inventory Project for many reasons! Here are a few:
+
+1. Interesting Phonetic Properties
+	1. `Teochew` has rich Phonetic properties, yet the `SwaTao` variety seems to have less resources than `Teochew` in Western literature
+		1. Ex: Interesting `Tone Type` and `Tone Category` system
+	2. I hope that other people (linguists, heritage speakers, curious souls) will be able to use this as a resource to learning and documenting more of `Teochew`--and perhaps maybe inspire people to be excited about language documentation the way [`Learn Teochew`](https://learn-teochew.github.io) has inspired me! 
+2. Journey to Becoming a Better Linguist
+	1. As a fledgling linguist, I hope to work on a language similar to my background in Mandarin and Cantonese to improve my understanding of linguistics (and one day, hopefully become a great linguist!)
+		1. Hopefully in the future, I can use the skills I gain as a linguist to help make the world a *better place*
+3. `GaGiNang` (*Our People*)
+	1. Many of which the people who I care about are a part belong to the `Teochew`/`GaGiNang` community. Thus, I wish to learn more about `Teochew` Language to connect more deeply with other `GaGiNang`s!
+
+___
+# Introduction
+## `SwaTao` Language Family
 The `SwaTao (汕头)` variety falls under the `Sino-Tibetan` language family as a `Southern Teochew Min (潮州闽)` variety. It is one of the main varieties of `Teochew` which also includes `Teochew Proper` and other "Northern"  and "Southern" Teochew Min [^1].
 //TODO try to use `Teochew` for both Teochew porper and swatao and `SwaTao` when just this one
 **`SwaTao` Language Family Tree**[^1]
@@ -54,14 +74,6 @@ As I was very unfamiliar with this language, here is the general framework used 
 3. Online Websites
 	1. WhatTCSay3 English to `Teochew` Dictionary 
 	2. Wikipedia
-
-###  Quick Side Note: Motivation
-I am interested in the `SwaTao` Phonetic Inventory Project for many reasons! Here are a few:
-
-1. `Teochew` has rich Phonetic properties, yet the `SwaTao` variety seems to have less resources than `Teochew` in Western literature 
-	1. Rich Phonetic property example: Nasalization of vowels and diphthongs
-2. `SwaTao` has similarities to Mandarin and Cantonese which I hope would be useful as an fledgling linguist
-3. `Teochew` has a rich culture and historical importance, and I wish to connect more deeply with other `GaGiNang`s
 
 ___
 [^1]: Language Family divided into proper and geographical [varieties](https://en.wikipedia.org/wiki/Teochew_Min)

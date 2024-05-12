@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GaGiNang Phonetics
+description: Phonetic Inventory and Description of the SwaTao variety of Teochew Min
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://drive.google.com/file/d/1fgzPOTP9xLBZq0tfiwoHrL-tXCZIPMXS/view?usp=sharing
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Praat Analysis: https://drive.google.com/file/d/1fgzPOTP9xLBZq0tfiwoHrL-tXCZIPMXS/view?usp=sharing
 
 markdown_toc: true
 # Table of contents
