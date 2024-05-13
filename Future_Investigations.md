@@ -33,6 +33,7 @@ ___
 1. *Minimal* Contrastive Environments
 	1. Although the `/i/`, `/e/`, `/ɑ/`, and `/o/` are recorded in a `/mV/` context, `/u/` and `/ɤ/` were recorded in a `/gu/` and `/kɤ/` context
 	2. Further investigation should record all vowels in the same `/CV/` context or even `/V/` context
+		1. Currently the vowels are time sliced out to include `stable regions` with no formant change to compensate for the different contexts
 2. Diphthong Timing Data
 	1. As `Teochew` also has diphthongs, further investigations can seek to understand the distribution of timings of diphthongs under a fixed `tone` condition
 3. Vowel Lengthening
@@ -52,6 +53,18 @@ ___
 			1. Future investigations should compare `F2-F1` and `F1` data from other speakers of `SwaTao` and other `Teochew` varieties.
 			2. If a `biomodal` distribution occurs between`/ɯ/` vs.`/ɤ/` and `/a/` vs. `/ɑ/`, then there is a vowel shift between `Teochew` varieties
 		3. Note: the `/ɯ/` and `/a/` are from `Teochew Proper` literature
+
+___
+# Tones
+1. Tone Sandhi
+	1. `Tone Sandhi` is the change of a word's tone depending on the tone of the following word
+		1. Documentation on `SwaTao` `Tone Sandhi` in [`Learn Teochew`](https://learn-teochew.github.io/pages/pronunciation.html#tone-sandhi) and [Wikipedia](https://en.wikipedia.org/wiki/Teochew_Min#Tones)
+	2. Future Investigation should verify that the recorded literature `Tone Sandhi` occurs in the same way in the `SwaTao` variety
+2. More Speaker Data in `SwaTao`
+	1. The researched `F0` modulation is based off of a single `SwaTao` speaker, future investigations should track the distribution of modulation across many speakers
+3. Tone Shifts Across Varieties
+	1. Future investigations can also seek to record `Sandhi` and compare the tone change in `SwaTao` versus other `Teochew` varieties such as `Teochew Proper`
+
 ___
 [^1]:  Phonemes occurring at the end of a word. In `Teochew`'s `/CVC/` segments the last `C` is considered a final consonant
 
