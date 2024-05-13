@@ -15,12 +15,12 @@ nav_order: "1"
 
 ___
 # What is `GaGiNang Phonetics (GG NP)`?
-IPA: `GaGiNang`: `/gɑgnɑ̃ŋ/` `/fənɛtɪks/`
-- The term `GaGiNang`, `胶己人`，or `自己人` in general, refers to the geography, group of people, and shared cultural identity of the `Teochew` people
-- Currently,`GG NP` documents a small portion of the sophisticated phonetics of the `SwaTao` `Teochew Min` variety for academic linguistic, language documentation, and language learning purposes
+ `GaGiNang Phonetics`: `/gɑginɑ̃ŋ/ fənɛtɪks/`
+- The term `GaGiNang`, `胶己人`，or `自己人` in general, refers to the phrase `"Our Own People"`, the geographical `ChaoZhou Region`, and the shared cultural identity and unity of the `Teochew` people
+- Currently, `GG NP` documents a small portion of the sophisticated phonetics of the `SwaTao` `Teochew Min` variety[^6] for academic linguistic, language documentation, and language learning purposes
 
 ___
-# Motivation for `GG NP`
+# Motivation for `GaGiNang Phonetics (GG NP)`
 I am interested in the `SwaTao` Phonetic Inventory Project for many reasons! Here are a few:
 
 1. Interesting Phonetic Properties
@@ -28,10 +28,18 @@ I am interested in the `SwaTao` Phonetic Inventory Project for many reasons! Her
 		1. Ex: Interesting `Tone Type` and `Tone Category` system
 	2. I hope that other people (linguists, heritage speakers, curious souls) will be able to use this as a resource to learning and documenting more of `Teochew`--and perhaps maybe inspire people to be excited about language documentation the way [`Learn Teochew`](https://learn-teochew.github.io) has inspired me! 
 2. Journey to Becoming a Better Linguist
-	1. As a fledgling linguist, I hope to work on a language similar to my background in Mandarin and Cantonese to improve my understanding of linguistics (and one day, hopefully become a great linguist!)
+	1. As a fledgling linguist, I wanted to work on a language similar to Mandarin and Cantonese to improve my understanding of linguistics (and one day, hopefully become a great linguist! <small>and maybe even create a unifying theory @Prof. Goldstein</small>)
 		1. Hopefully in the future, I can use the skills I gain as a linguist to help make the world a *better place*
 3. `GaGiNang` (*Our People*)
 	1. Many of which the people who I care about are a part belong to the `Teochew`/`GaGiNang` community. Thus, I wish to learn more about `Teochew` Language to connect more deeply with other `GaGiNang`s!
+
+## Thanks to USC!
+- Thank you to the [Linguistics Department at USC](https://dornsife.usc.edu/ling/) and a thanks to all the peers, mentors, and professors I've had the privilege to study under! This wouldn't have happened without you!
+	- Professor Goldstein for being the reason why this project exists!
+	- Professor Disner for introducing me to linguistics
+	- Professor Iskarous for encouraging the intersection of Computer Science and Linguistics (thus using a Github repo for this website's development)
+	- Professor Simpson for showing me the relationship of linguistics and `armies` and `navies`
+	- All the people at [USiL](https://www.usilusc.org) and the Ling 415 `gæ̃ŋ` <small>Thanks for being patient with me Jack!</small>
 
 ___
 # `GaGiNang Phonetics (GG NP)` Roadmap
@@ -49,9 +57,9 @@ ___
 ___
 # Introduction
 ## `SwaTao` Language Family
-The `SwaTao (汕头)` variety falls under the `Sino-Tibetan` language family as a `Southern Teochew Min (潮州闽)` variety. It is one of the main varieties of `Teochew` which also includes `Teochew Proper` and other "Northern"  and "Southern" Teochew Min [^1].
+The `SwaTao (汕头)` variety falls under the `Sino-Tibetan` language family as a `Southern Teochew Min (潮州闽)` variety. It is one of the main varieties of `Teochew` which also includes `Teochew Proper` and other "Northern"  and "Southern" Teochew Min.
 
-**`SwaTao` Language Family Tree**[^1]
+**`SwaTao` Language Family Tree**
 ```
 Sino-Tibetan
 └── Sinitic
@@ -65,21 +73,22 @@ Sino-Tibetan
 ```
 
 ### Clarification: `SwaTao` vs. `Teochew` vs. `Teochew Proper`
+- To reduce ambiguity of when each term is used, the following chart differentiates which name is used for each variety:
 
-| Variety          | Description                                                                                                                                                                                                                            | Use in `GG NP`                                                                                                                                    |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Teochew`        | Refers to the entire family of `Teochew` varieties including `Teochew Proper` and `SwaTao`<br><br>                                                                                                                                     | Used in `GG NP` when the phonetic finding is believed to extend to all varieties of `Teochew`                                                     |
-| `Teochew Proper` | Refers to a variety of `Teochew` that is standardized which [`GuangDong Peng'im`](https://en.wikipedia.org/wiki/Peng%27im)is based off of<br><br>Used by many formal literature and [`Learn Teochew`](https://learn-teochew.github.io) | Used in `GG NP` to describe literature description/transcription when production by native `SwaTao` speaker differs from literature transcription |
-| `SwaTao`         | Refers to a variety of `Teochew` spoken in the `ShanTou` (`汕头`) area of `GuangDong`<br><br>`ShanTou` and `SwaTao` are the `Mandarin` and `SwaTao` romanization of `汕头` respectively                                                    | Used in `GG NP` to describe `SwaTao` when production by native `SwaTao` speaker differs from literature transcription                             |
+| Variety          | Description                                                                                                                                                                                                                             | Use in `GG NP`                                                                                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Teochew`        | Refers to the entire family of `Teochew` varieties including `Teochew Proper` and `SwaTao`<br><br>                                                                                                                                      | Used in `GG NP` when the phonetic finding is believed to extend to all varieties of `Teochew`                                                     |
+| `Teochew Proper` | Refers to a variety of `Teochew` that is standardized which [`GuangDong Peng'im`](https://en.wikipedia.org/wiki/Peng%27im) is based off of<br><br>Used by many formal literature and [`Learn Teochew`](https://learn-teochew.github.io) | Used in `GG NP` to describe literature description/transcription when production by native `SwaTao` speaker differs from literature transcription |
+| `SwaTao`         | Refers to a variety of `Teochew` spoken in the `ShanTou` (`汕头`) area of `GuangDong`<br><br>`ShanTou` and `SwaTao` are the `Mandarin` and `SwaTao` romanization of `汕头` respectively                                                     | Used in `GG NP` to describe `SwaTao` when production by native `SwaTao` speaker differs from literature transcription                             |
 
 ## Orthography and Transcription 
-Since `Teochew`, like many other varieties spoken in Guangdong and China, is no longer officially taught in schools in favor of `Mandarin`, the writing and transcription system is [pseudo-standardized](https://en.wikipedia.org/wiki/Peng%27im). Thus, we will be use two types of orthography and transcription.
+Since `Teochew`, like many other varieties spoken in Guangdong and China, is no longer officially taught in schools in favor of `Mandarin`, the writing and transcription system is pseudo-standardized using [`GuangDong Peng'im`](https://en.wikipedia.org/wiki/Peng%27im). Thus, we will be use two types of orthography and transcription.
 1. Orthography
-	1. Teochew Orthography (similar to Mandarin Characters though not always the same)
-	2. Mandarin Orthography[^2]
-	3. English Orthography
+	1. `Teochew` Orthography (similar to Mandarin Characters though not always the same)
+	2. `Mandarin` Orthography[^2]
+	3. `English` Orthography
 2. Phonetic Transcription
-	1. Teochew `Peng'im` also known as `GaGiNang Peng'im` [^3]
+	1. Teochew `Peng'im` also known as `GaGiNang Peng'im` 
 	2. International Phonetic Alphabet: IPA
 
 ## General Approach
@@ -91,7 +100,7 @@ As I was very unfamiliar with this language, here is the general framework used 
 <small>Additionally, I tried to learn how to produce some of the segements in order to more easily do the state timing diagrams and Constriction Locations</small>
 ## Language Resources[^4]
 1. [`Learn Teochew with Ah Boon`](https://learn-teochew.github.io)
-	1. `Learn Teochew` is the primary source for many of the initial transcriptions, phonetic inventories, and grammatical rules. He also has a series of videos describing `Teochew` proper with IPA.
+	1. `Learn Teochew` is the primary source for many of the initial transcriptions, phonetic inventories, and grammatical rules. He also has a series of videos describing `Teochew proper` with IPA.
 	2. Many of the transcriptions are based off of his and then modified based on the variety of `Swatao` the participant in this project speaks.
 2. Mrs. Lisa Li (李丽华夫人) for participating in the data collection and for being 
 3. Online Websites
@@ -104,6 +113,7 @@ ___
 [^2]: As a Cantonese speaker, it was sometimes easier to translate sentences into Mandarin Orthography before creating the English gloss. Also, I hope that any other interested people or Linguistics students may also find this work interested and perhaps benefits from having more glosses.
 [^3]: After finishing the phonetic recordings with my speaker, we talked more about `SwaTao` culture, including the  phrase `GaGiNang` or `/gaginaŋ/`, written in `Teochew` as 胶己人 or in Mandarin 自己人. `GaGiNang` has three meanings: (1) Literal: "Our own people", (2) Geographical: The `Teochew` region, and (3) An idea that unites all `Teochew` people from all different backgrounds, diaspora, and identification
 [^4]: Huge thanks to Mrs. Li for her patience and help with repeating words and helping to find what utterances provided in the literature were ungrammatical in `SawTao`. Also, Mr. Ah Boon's `Learn Teochew` is an indispensable and inspiring resource for this `Teochew` language documentation.
+[^6]: What is considered a `Language` or `Dialect` is a [complex sociolinguistic challenge](https://en.wikipedia.org/wiki/A_language_is_a_dialect_with_an_army_and_navy). Thus, we use the neutral phrase `variety` to refer to a general way of speaking
 
 [Introduction]: Introduction.html
 [Consonants]: Consonants.html
@@ -111,4 +121,4 @@ ___
 [Tones]: Tones.html
 [Future Investigations]: Future_Investigations.html
 [Assets]: Assets.html
-[Phonetic_Inventory]: Phonetic_Inventory.html
+[Phonetic Inventory]: Phonetic_Inventory.html

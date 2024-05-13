@@ -49,6 +49,10 @@ ___
 | [Teochew Interview Slides] | Phonetically rich sentences and corrected sentences based on the native speaker feedback (\* represent literature sentences deemed ungramatical) |
 
 ____
+# Github
+- This documentation lives in the [`Teochew-Linguistics` Github](https://github.com/Ky-Ng/Teochew-Linguistics)
+
+___
 [^1]: 
 
 [`assets folder`]: https://github.com/Ky-Ng/Teochew-Linguistics/tree/main/assets
