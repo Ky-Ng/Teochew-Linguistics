@@ -72,8 +72,9 @@ As I was very unfamiliar with this language, here is the general framework used 
 	2. Many of the transcriptions are based off of his and then modified based on the variety of `Swatao` the participant in this project speaks.
 2. Mrs. Lisa Li (李丽华夫人) for participating in the data collection and for being 
 3. Online Websites
-	1. WhatTCSay3 English to `Teochew` Dictionary 
+	1. [WhatTCSay3](https://apps.apple.com/us/app/whattcsay3/id1551477228) English to `Teochew` Dictionary 
 	2. Wikipedia
+4. [Online Formant Plotting Tool](https://adamb924.github.io/formant-plot/)
 
 ___
 [^1]: Language Family divided into proper and geographical [varieties](https://en.wikipedia.org/wiki/Teochew_Min)
