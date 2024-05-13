@@ -3,7 +3,7 @@ title: Assets
 layout: default
 nav_order: "6"
 ---
-# Phonetic Inventory
+# Assets
 
 <details open markdown="block">
   <summary>
@@ -14,6 +14,8 @@ nav_order: "6"
 {:toc}
 </details>
 ___
-# TODO
+# Sound Files
+
+#
 ____
 [^1]: 

@@ -15,7 +15,7 @@ nav_order: "7"
 </details>
 
 # IPA with Audio
-- Each IPA symbol in the phonetic inventory (consonants, vowels, tones) have a `Google Drive` `.wav` file linked
+- Each IPA symbol in the phonetic inventory (consonants, vowels, tones) have a [`Google Drive`] `.wav` file linked
 
 ## Speaker Information
 - The speaker is an adult female native speaker of `SwaTao` 
@@ -108,4 +108,4 @@ ____
 [11]: https://drive.google.com/file/d/1v7XeXiEhvkBH7e7beEHmQ13F2iR-7Qrj/view?usp=sharing
 [5]: https://drive.google.com/file/d/1n4eClKY7DVfHy8qSdGSqOGL-_iCADVd2/view?usp=share_link
 
-
+[`Google Drive`]: https://drive.google.com/drive/folders/199EAu9Ix-1f-TFnztKLe_1KmaVPKrzGD?usp=share_link

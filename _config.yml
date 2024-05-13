@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://drive.google.com/file/d/1fgzPOTP9xLBZq0tfiwoHrL-tXCZIPMXS/view?usp=sharing
 
 aux_links:
-  Phonetic Inventory: https://ky-ng.github.io/Teochew-Linguistics/Phonetic%20Inventory.html
+  Phonetic Inventory: Phonetic_Inventory.html
 
 markdown_toc: true
 # Table of contents
