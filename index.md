@@ -15,6 +15,8 @@ nav_order: "1"
 
 ___
 # `GaGiNang Phonetics (GG NP)` Roadmap
+
+`GaGiNang`: `/gɑgnɑ̃ŋ/` `/fənɛtɪks/`
 - TODO
 
 ___

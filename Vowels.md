@@ -67,12 +67,17 @@ Before going into the details on the vowel identification, below details the pro
 
 #### Investigating `/e/` vs. `/ɛ/`
 - Something interesting while looking at the formant chart is the `/e/` vowel having a much higher F1 then expected[^3]. 
-- While this could suggest that the `/e/` vowel in `Teochew Proper` shifts to a lower F1 `/ɛ/` in `SwaTao`:
-	1. `/e/` and `/ɛ/` experience `allophonic variation`[^4] in `Teochew` so it is unclear which vowel is the `phonological unit`
-	2. Seeing which vowel is more prominent would require more investigation // TODO SECTION ON BIMODAL DISTRIBUTION
+- While this could suggest that the `/e/` vowel in `Teochew Proper` shifts to a lower F1 `/ɛ/` in `SwaTao`, `/e/` and `/ɛ/` seem to experience `allophonic variation`[^4] in `Teochew` so it is unclear which vowel is the `phonological unit`
+
+1. Future Investigation
+	1. Since there was only one speaker, it is difficult to draw a conclusion as to whether or not the high `F1` value for the `/e/` phoneme is a result of:
+		1. The individual speaker's manner of speech
+		2. The `SwaTao` variety versus the `Teochew Proper` variety
+		3. The `/e/` and `/ɛ/` are in `allophonic variation`
+	2. To investigate whether `/e/` and `/ɛ/` are in allophonic variation, future investigations should compare the `F2-F1` and `F1` of all `/e/` and `/ɛ/` like phonemes. If a [`bimodal` distribution] occurs, then the two vowels are in `allophnic variation`
 
 ### Possible Reasons For Vowel Shifting
-- However, it is unclear whether this shift is due to: (1) variety, (2) speaker, or (3) speaking conditions of the normal speaker.
+- However, it is unclear whether the shift from `/ɯ/` to `/ɤ/` and `/a/` to `/ɑ/` and  shift is due to: (1) variety, (2) speaker, or (3) speaking conditions of the normal speaker.
 
 | Possible Reason For Shifting | Description of Reason                                                                                 | Finding                                                                                                                                                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,7 +85,6 @@ Before going into the details on the vowel identification, below details the pro
 | Speaking Conditions          | The `Backing` only occurs in limited conditions                                                       | (1) There is a `Backing` from `Teochew Proper` to `SwaTao` under certain conditions<br><br>(2) The phonological unit for the 2 vowels are the same in `SwaTao` and `Teochew Proper` but experience allophonic variation[^2] |
 | Speaker Specific             | The vowel shift is only present in the native speaker recorded and not for other speakers of `SwaTao` | (1) There is no difference in vowels between both varieties<br><br>(2) The phonological units for both varieties are the same                                                                                               |
 
-See Section (// TODO) for future investigation of vowel shifting.
 ___
 # Vowel Spectrograms
 
@@ -101,3 +105,5 @@ ____
 [^2]: Due to the `synergy` and `interaction` of the `Dynamical Systems` controlling each `Constrictor`--in this case, `Tongue Body`--`/ɯ/` and `/a/` have greater `Pharyngeal Constriction` 
 [^3]: Relating to `Source Filter Theory`, the `/e/` and `/ɛ/` vowels differ only in `Constriction Degree` at the `Palatal` `Constriction Location`. Since the `palatal` constriction occurs at an `antinode` or `maximum movement` point of air molecules in the Vocal Tract, the `antinode` is `mass controlled`. A constriction at the `mass controlled` area decreases the frequency, which means that the higher the vowel, the greater the `Constriction Degree` and the lower the `F1`. More simply `F1 and vowel height are inversely related`, lower vowels have higher `F1`s.
 [^4]: Allophonic Variation refers to the idea that the same `Phonologic Unit` may be produced with different but close `Constriction Degree`s and `Constriction Location`s. Speakers would not differentiate between words/phonemes when in allophonic distribution.
+
+[`bimodal` distribution]: https://www.sciencedirect.com/topics/mathematics/bimodal-distribution#:~:text=When%20two%20clearly%20separate%20groups,two%20distinct%20clusters%20of%20data
