@@ -16,7 +16,7 @@ nav_order: "6"
 ___
 # Motivation
 - This work on `SwaTao` analysis is far from done! The goal of this documentation is to provide a` leap frog point` for any other interested Linguists, Computational Linguists, or `Teochew` language speakers to continue documentation
-- Thus, the links below are the editable version/templates of many of the images and diagrams in the static [`assets folder`] can be found in this [`Google Drive`]
+- Thus, the links below are the editable version/templates of many of the images and diagrams in the static [`assets folder`] can be found in this [`Google Drive`] as editable templates
 	- Please contact `k` `g` `n` `g` \[at] `usc` \[dot] `edu` if you are unable to access the resources or have questions about any of the files
 
 ___

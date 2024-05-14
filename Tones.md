@@ -19,7 +19,7 @@ ___
 	1. `Pitch` is an equivalent term for `Fundamental Frequency` or `F0` <small>or if you're quirky, glottal pulses per second!</small>
 	2. More `glottal pulses` => higher `pitch`
 2. `Tones` are `pitch` modulations (changes) throughout an utterance
-	1. Ex: `high pitch` at `onset` then `low pitch` following
+	1. Ex: the IPA denoted `53` tone would be a `high pitch` at `onset` then `low pitch` following
 	2. The modulation of `F0` throughout an utterance is known as a [`Pitch Contour`](#Pitch-Contour) which can be plotted as `F0 vs. Time`
 4. From a `Gestural Framework`, the `goal` of `High Tone` or `Low Tone` are achieved by constrictions of the `articulators` or muscles in the lower portion of the `Vocal Tract`
 
@@ -44,10 +44,10 @@ ___
 	- `high` means that the F0 beings high
 	- Note: after the initial onset pitch, the utterance may be modulated (either go higher or lower depending on the `Tone Category`)
 
-| Tone Class | Starting F0 | Teochew Transcription | Corresponding Peng'im Tones |
-| ---------- | ----------- | --------------------- | --------------------------- |
-| low        | low         | 阴                     | `1` `2` `3` `4`             |
-| high       | high        | 阳                     | `5` `6` `7` `8`             |
+| Tone Class | Starting F0 | Teochew Transcription | Corresponding IPA Tones | Corresponding Peng'im Tones |
+| ---------- | ----------- | --------------------- | ----------------------- | --------------------------- |
+| low        | low         | 阴                     | `33` `53` `213` `2`     | `1` `2` `3` `4`             |
+| high       | high        | 阳                     | `55` `35` `11` `5`      | `5` `6` `7` `8`             |
 
 #### Tone Category
 - In addition to `Tone Class`, each Tone can be modulated with a `Tone Category` (either increase or decrease `F0` depending on the onset `F0` or `Tone Class`)
@@ -72,21 +72,22 @@ Total_Tones_in_SwaTao = 8
 ## Tone Classification
 - The table below reiterates the information above and maps the relationship between **Tone Class and Tone Category** with **IPA `pitch contour`**, **`Peng'im` tone number**, and written **Chinese tone orthography**
 
-| IPA Number[^3] | Peng’im Tone # | Tone Type (English) | Tone Class (English) | Tone Type (Teochew) | Tone Class<br>(Teochew) |
-| -------------- | -------------- | ------------------- | -------------------- | ------------------- | ----------------------- |
-| 33             | 1              | Low                 | Level                | 阴                   | 平                       |
-| 53             | 2              | Low                 | Rising               | 阴                   | 上                       |
-| 213            | 3              | Low                 | Departing            | 阴                   | 去                       |
-| 2              | 4              | Low                 | Entering             | 阴                   | 入                       |
-| 55             | 5              | High                | Level                | 阳                   | 平                       |
-| 35             | 6              | High                | Rising               | 阳                   | 上                       |
-| 11             | 7              | High                | Departing            | 阳                   | 去                       |
-| 5              | 8              | High                | Entering             | 阳                   | 入                       |
+| IPA Number | Peng’im Tone # | Tone Type (English) | Tone Class (English) | Tone Type (Teochew) | Tone Class<br>(Teochew) |
+| ---------- | -------------- | ------------------- | -------------------- | ------------------- | ----------------------- |
+| 33         | 1              | Low                 | Level                | 阴                   | 平                       |
+| 53         | 2              | Low                 | Rising               | 阴                   | 上                       |
+| 213        | 3              | Low                 | Departing            | 阴                   | 去                       |
+| 2          | 4              | Low                 | Entering             | 阴                   | 入                       |
+| 55         | 5              | High                | Level                | 阳                   | 平                       |
+| 35         | 6              | High                | Rising               | 阳                   | 上                       |
+| 11         | 7              | High                | Departing            | 阳                   | 去                       |
+| 5          | 8              | High                | Entering             | 阳                   | 入                       |
 
 ___
 # Pitch Contour
 - Below, each of the tone modulations are plotted as `F0` vs. `Time`
-- Each line type (*solid* or *dashed*) represents a `Tone Type` (*High* or *Low*) while color represents a Tone Category (*Level, *Rising*, *Departing*, *Entering*)
+- Each line type (*solid* or *dashed*) represents a `Tone Type` (*High* or *Low*) while color represents a Tone Category (*Level*, *Rising*, *Departing*, *Entering*)
+
 #### `F0` Calculation Method
 1. Since `F0` modulation occurs during the vowels rather than the short `onset` consonants, I extracted the Formant Listing during the vowels in a `/CV/` context
 2. In Praat, I used `Pitch`>`Pitch Listing`
@@ -107,6 +108,7 @@ ___
 
 ## Pitch Contour Analysis
 - Comparing `Tone Type` and `Tone Category`
+
 ### `Tone Type` Analysis
 - With the exception of the `Departing` tone, all `High` `Tone Type` end higher than their `Low Tone Type` counterpart
 - With the exception of the `Entering` tone, all `High Tone Type` contours curve upward towards the end of the tone gesture
@@ -120,7 +122,7 @@ ___
 | `213`<br>`11`<br><br><br><br><br> | `3`<br>`7`<br><br><br><br><br> | Departing<br><br><br><br><br><br> | `Low Tone Type` seems to follow the `213` modulation<br><br>`High Tone Type` seems to follow the opposite of `Rising` rather than `Departing` where the tone ends in the opposite `Tone Type` |
 | `2`<br>`5`                        | `4`<br>`8`                     | Entering<br>                      | Both `Tone Types` contour downwards--decrease in `F0` perhaps due to the final `glottal adduction`/`glottal stop`                                                                             |
 
-- It is not possible to directly draw a correlation between tone and vowel length as the contrastive tone pairs are not minimal. See section TODO for more details
+- It is not possible to directly draw a correlation between tone and vowel length as the contrastive tone pairs are not minimal. See [Future Investigations] for more details.
 
 ____
 [^1]: Low is also called "Dark" or `阴` in some literature
@@ -132,3 +134,5 @@ ____
 [^7]: While working on this project, I accidentally reversed the tone markings! Seems like this happens in [African vs. Asian Tone transcriptions](https://en.wikipedia.org/wiki/Tone_letter#Numerical_values) too
 [^10]: `53` is `Low` `Tone Class`: `F0` Modulation goes from `High` (`5`) to `Low`(`3`)
 [^11]:  `35` is `High` `Tone Class`: `F0` Modulation goes from `Low`(`3`) to `High` (`5`)
+
+[Future Investigations]: Future_Investigations.html#tones

@@ -24,7 +24,9 @@ ____
 1. *Minimal* Contrastive Environments
 	1. Currently minimal contrastive pairs for consonants are recorded in [`Phonetically Rich Sentences`] rather than in isolated environments with pauses between each segment
 		1. This could introduce latent [prosodic influences] 
-2. Word Final Consonants
+2. `Breathy Voice` in `/tsʰ/`
+	1. Future investigations can verify the distributions of `VOT` for the biphasic waveform in  `/tsʰ/` suggesting`breathy voice`
+3. Word Final Consonants
 	1. `Teochew` word finals[^1] may also include an optional consonant
 	2. Thus, it would be interesting to investigate whether there are differences between consonants in `onset` versus `word final` positions
 
@@ -60,9 +62,12 @@ ___
 	1. `Tone Sandhi` is the change of a word's tone depending on the tone of the following word
 		1. Documentation on `SwaTao` `Tone Sandhi` in [`Learn Teochew`](https://learn-teochew.github.io/pages/pronunciation.html#tone-sandhi) and [Wikipedia](https://en.wikipedia.org/wiki/Teochew_Min#Tones)
 	2. Future Investigation should verify that the recorded literature `Tone Sandhi` occurs in the same way in the `SwaTao` variety
-2. More Speaker Data in `SwaTao`
+2. Tone and Vowel Length
+	1. Since the different tones recorded were not minimal contrastive pairs, it is not possible to draw a conclusion between vowel length and tone.
+	2. Future investigations can have many speakers saying the same minimal pair an identify a correlation based on the vowel length distributions
+3. More Speaker Data in `SwaTao`
 	1. The researched `F0` modulation is based off of a single `SwaTao` speaker, future investigations should track the distribution of modulation across many speakers
-3. Tone Shifts Across Varieties
+4. Tone Shifts Across Varieties
 	1. Future investigations can also seek to record `Sandhi` and compare the tone change in `SwaTao` versus other `Teochew` varieties such as `Teochew Proper`
 
 ___

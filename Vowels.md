@@ -48,7 +48,7 @@ Before going into the details on the vowel identification, below details the pro
 | ![Original Vowel Chart](assets/vowels/vowel_charts/Original_Vowel_Chart.png) |
 
 ### Vowel Shift in `SwaTao`
-- When listening to the recording combined with the new data, `SwaTao` seems to have these `/ɤ/` and `/ɑ/` rather than `/ɯ/` and `/a/`
+- When listening to the recording combined with the new data, `SwaTao` seems to have `/ɤ/` and `/ɑ/` rather than `/ɯ/` and `/a/`
 
 | Peng'im | Expected Vowel | Recorded Vowel |
 | ------- | -------------- | -------------- |
@@ -68,16 +68,11 @@ Before going into the details on the vowel identification, below details the pro
 #### Investigating `/e/` vs. `/ɛ/`
 - Something interesting while looking at the formant chart is the `/e/` vowel having a much higher F1 then expected[^3]. 
 - While this could suggest that the `/e/` vowel in `Teochew Proper` shifts to a lower F1 `/ɛ/` in `SwaTao`, `/e/` and `/ɛ/` seem to experience `allophonic variation`[^4] in `Teochew` so it is unclear which vowel is the `phonological unit`
-
-1. Future Investigation
-	1. Since there was only one speaker, it is difficult to draw a conclusion as to whether or not the high `F1` value for the `/e/` phoneme is a result of:
-		1. The individual speaker's manner of speech
-		2. The `SwaTao` variety versus the `Teochew Proper` variety
-		3. The `/e/` and `/ɛ/` are in `allophonic variation`
-	2. To investigate whether `/e/` and `/ɛ/` are in allophonic variation, future investigations should compare the `F2-F1` and `F1` of all `/e/` and `/ɛ/` like phonemes. If a [`bimodal` distribution] occurs, then the two vowels are in `allophnic variation`
+- See [Future Investigations] for more details
 
 ### Possible Reasons For Vowel Shifting
 - However, it is unclear whether the shift from `/ɯ/` to `/ɤ/` and `/a/` to `/ɑ/` and  shift is due to: (1) variety, (2) speaker, or (3) speaking conditions of the normal speaker.
+- See [Future Investigations] for more details
 
 | Possible Reason For Shifting | Description of Reason                                                                                 | Finding                                                                                                                                                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -103,7 +98,8 @@ ___
 ____
 [^1]: Phonological Unit refers to an abstract mental unit representing the information a speaker needs to decode (understand from a speech signal) or encode (produce) a given sound. More specifically, the Phonological Unit is likely a set of `Dynamical Systems` governing the movement of `Vocal Tract Constrictors` where the target `Constriction Location` (traditionally `Place of Articulation`) and `Constriction Degree` (traditionally `Manner of Articulation`) are the `goals` of each `Dynamical System` 
 [^2]: Due to the `synergy` and `interaction` of the `Dynamical Systems` controlling each `Constrictor`--in this case, `Tongue Body`--`/ɯ/` and `/a/` have greater `Pharyngeal Constriction` 
-[^3]: Relating to `Source Filter Theory`, the `/e/` and `/ɛ/` vowels differ only in `Constriction Degree` at the `Palatal` `Constriction Location`. Since the `palatal` constriction occurs at an `antinode` or `maximum movement` point of air molecules in the Vocal Tract, the `antinode` is `mass controlled`. A constriction at the `mass controlled` area decreases the frequency, which means that the higher the vowel, the greater the `Constriction Degree` and the lower the `F1`. More simply `F1 and vowel height are inversely related`, lower vowels have higher `F1`s.
-[^4]: Allophonic Variation refers to the idea that the same `Phonologic Unit` may be produced with different but close `Constriction Degree`s and `Constriction Location`s. Speakers would not differentiate between words/phonemes when in allophonic distribution.
+[^3]: Relating to `Source Filter Theory`, the `/e/` and `/ɛ/` vowels differ only in `Constriction Degree` at the `Palatal` `Constriction Location`. Since the `palatal` constriction occurs at an `antinode` or `maximum movement` point of air molecules in the Vocal Tract, the `antinode` is `mass controlled`. A constriction at the `mass controlled` area decreases the frequency, which means that the higher the vowel, the greater the `Constriction Degree` and the lower the `F1`. Therefore, **F1 and vowel height are inversely related, lower vowels have higher F1s**.
+[^4]: Allophonic Variation refers to the idea that the same `Phonologic Unit` may be produced with different but close `Constriction Degree`s and `Constriction Location`s. Speakers do not differentiate between words/phonemes when in allophonic distribution.
 
 [`bimodal` distribution]: https://www.sciencedirect.com/topics/mathematics/bimodal-distribution#:~:text=When%20two%20clearly%20separate%20groups,two%20distinct%20clusters%20of%20data
+[Future Investigations]: Future_Investigations.html#vowels

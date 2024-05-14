@@ -15,7 +15,7 @@ nav_order: "7"
 </details>
 
 # IPA with Audio
-- Each IPA symbol in the phonetic inventory (consonants, vowels, tones) have a [`Google Drive`] `.wav` file linked
+- Each IPA symbol in the phonetic inventory (consonants, vowels, tones) has a [`Google Drive`] `.wav` file linked
 
 ## Speaker Information
 - The speaker is an adult female native speaker of `SwaTao` 
@@ -44,7 +44,7 @@ ___
 |          | Front | Central | Back Rounded | Back Unrounded |
 | -------- | ----- | ------- | ------------ | -------------- |
 | High     | [i]   |         |              | [u]            |
-| High-Mid |       |         | [ɤ]          | [o]<br>        |
+| High-Mid | [e]   |         | [ɤ]          | [o]<br>        |
 | Low-Mid  |       |         |              |                |
 | Low      |       |         |              | [ɑ]            |
 
